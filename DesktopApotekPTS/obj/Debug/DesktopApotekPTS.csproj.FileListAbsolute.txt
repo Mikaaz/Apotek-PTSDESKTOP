@@ -1,0 +1,16 @@
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\DesktopApotekPTS.exe.config
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\DesktopApotekPTS.exe
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\DesktopApotekPTS.pdb
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.csproj.AssemblyReference.cache
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.Form1.resources
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.Properties.Resources.resources
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.csproj.GenerateResource.cache
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.csproj.CoreCompileInputs.cache
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.exe
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.pdb
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.Form2.resources
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\bin\Debug\System.Data.SqlClient.xml
+C:\Users\mamas\source\repos\DesktopApotekPTS\DesktopApotekPTS\obj\Debug\DesktopApotekPTS.csproj.CopyComplete
